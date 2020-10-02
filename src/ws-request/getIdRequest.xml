@@ -1,0 +1,9 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/"
+                  xmlns:gs="http://bankaya.com/examen/test/pokemon">
+    <soapenv:Header/>
+    <soapenv:Body>
+        <gs:getIdRequest>
+            <gs:pokemon>charmander</gs:pokemon>
+        </gs:getIdRequest>
+    </soapenv:Body>
+</soapenv:Envelope>
