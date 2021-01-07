@@ -1,11 +1,6 @@
-# bankaya-exercise
-Exercise
+# pokeapi-microservice
 
-Dejo el código como tal y un archivo llamado bayanka_exercise.zip con el código cómo tal.
-Las respuestas de las preguntas las pueden encontrar en el archivo: 
-Examen_Bankaya_Er-ramani.pdf
-
-Para instalar el proyecto sólo hace falta hacer un mvn spring-boot:run en la consola.
+Para instalar el proyecto sólo hace falta hacer un mvn spring-boot:run en la consola. Contiene los endpoints expuestos con SOAP y el consumo de la API a pokeapi con REST client para demostrar ambas utilidades.
 
 Las rutas son las siguientes:
 
